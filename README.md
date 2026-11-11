@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <img src="https://pixelsafari.neocities.org/dividers/more/clovers.gif" width="400">
+  <img src="https://pixelsafari.neocities.org/dividers/more/clovers.gif" width="800">
 </p>
