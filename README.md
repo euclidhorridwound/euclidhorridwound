@@ -2,8 +2,7 @@
   <img src="https://pixelsafari.neocities.org/dividers/more/clovers.gif" width="800">
 </p>
 
-<p align="center">
-<img src="https://64.media.tumblr.com/9a3fa8a83abf1aedb4a012ac97bab3a2/tumblr_o7h9hrgUCD1umqln3o1_540.gif">
+<img width="3840" height="2160" alt="New board2 (10)" src="https://github.com/user-attachments/assets/c370469a-f160-4a2b-88d2-6c2da4f3077e" />
 
 <p align="center">
   <img src="https://pixelsafari.neocities.org/dividers/more/clovers.gif" width="800">
