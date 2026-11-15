@@ -1,11 +1,10 @@
  <p align="center">
-  <img src="https://pixelsafari.neocities.org/dividers/more/clovers.gif" width="800">
+  <img src=https://pixelsafari.neocities.org/dividers/more/clovers.gif" width="800">
 </p>
 
 <p align="center">
-  <img width="498" height="277" alt="42eeddd3d4298d92175751f330c7a2e7 1" src="https://github.com/user-attachments/assets/40fe5f09-d89d-4256-ab1b-f015c2c14326" />
- <img width="498" height="277" alt="stankyle" src="https://github.com/user-attachments/assets/d96be5fe-422f-4431-8637-2615bf77e651" />
-</p>
+<img src="https://64.media.tumblr.com/9a3fa8a83abf1aedb4a012ac97bab3a2/tumblr_o7h9hrgUCD1umqln3o1_540.gif">
+
 
 
 <p align="center">
